@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+       <ImageView
+           android:id="@+id/no_icon"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_marginTop="115dp"
+           android:orientation="horizontal"
+           android:layout_marginBottom="20dp"
+           android:src="@drawable/app_icon" />
+
+       <Button
+           android:id="@+id/no_denglu"
+           android:layout_width="match_parent"
+           android:layout_height="120px"
+         android:layout_margin="10dp"
+           android:background="#7FFFAA"
+           android:text="登录"
+           android:textColor="#fff"
+           android:textSize="48px"
+           android:layout_marginTop="150px"></Button>
+
+       <Button
+          android:id="@+id/no_zhuce"
+           android:layout_width="match_parent"
+           android:layout_height="120px"
+           android:layout_margin="10dp"
+           android:background="#7FFFAA"
+           android:text="注册"
+           android:textColor="#fff"
+           android:textSize="48px"
+           android:layout_marginTop="150px"></Button>
+
+       <TextView
+           android:id="@+id/dad"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content" />
+</LinearLayout>

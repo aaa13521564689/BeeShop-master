@@ -1,0 +1,79 @@
+﻿{
+	"data":[{
+		"id":2,
+		"address":"李四的饭店",
+		"isSelected":"false",
+		"goodDetail":[{
+			"id":23,
+			"user_id":3,
+			"product_id":3,
+			"shop_id":2,
+			"num":5,
+			"status":1,
+			"create_time":1535942209,
+			"product_title":"薯条",
+			"cover":"/static/images/snopic.jpg",
+			"price":"11",
+			"unit":"一袋子",
+			"isEdit":"false",
+			"isSelected":"false"
+		}, {
+			"id":24,
+			"user_id":3,
+			"product_id":4,
+			"shop_id":2,
+			"num":11,
+			"status":1,
+			"create_time":1535942281,
+			"product_title":"雪糕",
+			"cover":"/static/images/snopic.jpg",
+			"price":"5",
+			"unit":"块",
+			"isEdit":"false",
+			"isSelected":"false"
+		}]
+	}, {
+		"id":1,
+		"address":"蜂店",
+		"isSelected":"false",
+		"goodDetail":[{
+			"id":25,
+			"user_id":3,
+			"product_id":1,
+			"shop_id":1,
+			"num":11,
+			"status":1,
+			"create_time":1535942302,
+			"product_title":"梨花香",
+			"cover":"/static/images/snopic.jpg",
+			"price":"69",
+			"unit":"一斤",
+			"isEdit":"false",
+			"isSelected":"false"
+		}]
+	}, {
+		"id":5,
+		"address":"我的小店",
+		"isSelected":"false",
+		"goodDetail":[{
+			"id":26,
+			"user_id":3,
+			"product_id":5,
+			"shop_id":5,
+			"num":11,
+			"status":1,
+			"create_time":1535964097,
+			"product_title":"玫瑰",
+			"cover":"/static/images/snopic.jpg",
+			"price":"2",
+			"unit":"个",
+			"isEdit":"false",
+			"isSelected":"false"
+		}]
+	}],
+	"code":200,
+	"msg":"SUCCESS",
+	"time":1535964648
+
+
+}
